@@ -13,6 +13,7 @@ public class GitMerge {
 	static void Display()
 	{
 		System.out.println("Arjun");
+		System.out.println("Sudeep");
 	}
 
 }

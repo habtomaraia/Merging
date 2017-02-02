@@ -14,6 +14,7 @@ public class GitMerge {
 		System.out.println("Sudeep");
 		
 		System.out.println("Shrawan"); // Shrawan 
+		System.out.println("Sanjaya");
 	}
 
 }
